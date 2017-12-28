@@ -1,6 +1,6 @@
-# <Spring in Action> 4th edition Reading exercises
+# \<Spring in Action\> 4th edition Reading exercises
 
-Reading exercises about <Spring in Action> 4th edition. A majority of codes are from the book directly, just for doing exercises.
+Reading exercises about \<Spring in Action\> 4th edition. A majority of codes are from the book directly, just for doing exercises.
 
 ## Any problems
 
