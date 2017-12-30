@@ -10,6 +10,8 @@ import org.mockito.Mockito;
  */
 public class BraveKnightTest {
 
+
+
     @Test
     public void testEmbarkOnQuest() {
         // mock Quest instance
